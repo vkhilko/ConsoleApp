@@ -10,7 +10,7 @@ namespace MessApp
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello world (dev + master branch)!");
+			Console.WriteLine("Hello world (dev + master branch)! 2");
 		}
 	}
 }
